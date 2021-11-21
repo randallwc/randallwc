@@ -2,7 +2,12 @@
 
 [randallwc.github.io](https://randallwc.github.io)
 
+![randallwc's GitHub stats](https://github-readme-stats.vercel.app/api?username=randallwc&layout=compact&show_icons=true&theme=prussian)
+
+
 <!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=randallwc&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 **randallwc/randallwc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,5 +20,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
 -->
