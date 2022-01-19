@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[randallwc.github.io](https://randallwc.github.io)
+[williamrandall.me](https://williamrandall.me)
 
 ![randallwc's GitHub stats](https://github-readme-stats.vercel.app/api?username=randallwc&layout=compact&show_icons=true&theme=prussian)
 
