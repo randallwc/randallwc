@@ -31,8 +31,3 @@ Here are some ideas to get you started:
   - https://mqtt.org/
   - haar cascade facial and hand tracking
   - speech to text with google's speech recognition api
-
-## 🤓 I’m currently learning
-
-node, javascript, backend tech, react, nextjs, express, go, lua, fullstack,
-mongoDB, heroku, signal processing, and computer vision
