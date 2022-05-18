@@ -6,7 +6,7 @@
 
 ## 🔭 I’m currently working on
 
-### dotfiles
+### [dotfiles](https://github.com/randallwc/.dotfiles)
 
 - vim, zsh, and tmux configs
 - moving to neovim
