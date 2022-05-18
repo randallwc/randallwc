@@ -1,10 +1,11 @@
-![randallwc's GitHub stats](https://github-readme-stats.vercel.app/api?username=randallwc&layout=compact&show_icons=true&theme=prussian)
 
 # Welcome to my Github 👋
 
 > Pronouns: he/him/his
 
 [williamrandall.me](https://williamrandall.me)
+
+![randallwc's GitHub stats](https://github-readme-stats.vercel.app/api?username=randallwc&layout=compact&show_icons=true&theme=prussian)
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=randallwc&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
