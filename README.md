@@ -13,4 +13,12 @@
 - qmk firmware for my custom https://nullbits.co/ keyboard
 - bootstrapping any MacOS, Linux, or Windows install but focusing on MacOS
 
-### [my capstone for Computer Engineering](https://github.com/ECE-180D-WS-2022/Team3)
+<details>
+  <summary><h2>Classes I have taken</h2></summary>
+<br>
+
+| Quarter | Class |
+| :-: | :-: |
+| Fall 2018 | asdf |
+
+</details>
